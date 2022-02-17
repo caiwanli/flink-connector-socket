@@ -13,7 +13,7 @@ WITH (
 启动项目前，运行nc -lk 9000命令打开Socket端口监听
 插入数据格式：
 INSERT,Alice,12
-INSERT,Bob|5
+INSERT,Bob,5
 DELETE,Alice,12
 INSERT,Alice,18
 
